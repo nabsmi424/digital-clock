@@ -1,4 +1,4 @@
-import all the required libraries first
+#import all the required libraries first
 import sys
 from tkinter import *
 #import time library to obtain current time
