@@ -24,7 +24,7 @@ clock.grid(row=2,column=2,pady=25,padx=100)
 timing()
 
 #create a variable for digital clock
-digital=Label(root,text="AskPython's Digital Clock",font="times 24 bold")
+digital=Label(root,text="NabinPython's Digital Clock",font="times 24 bold")
 digital.grid(row=0,column=2)
 
 nota=Label(root,text="hours        minutes        seconds",font="times 15 bold")
